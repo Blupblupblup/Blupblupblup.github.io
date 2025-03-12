@@ -17,7 +17,13 @@ I'm interested in anomaly detection, also called out-of-distribution detection o
 
 ## Publications & abstracts
 
-A novel, scalable deep learning-based approach to automated quality control of multipleximmunofluorescence images
+[AI-driven Quality Control for Immunohistochemistry: Automated detection and exclusion of artifacts for downstream analysis in digitized pathology slides](https://www.aignostics.com/press/publications)
+
+2024 European Congress of Pathology (poster)
+
+---
+
+[A novel, scalable deep learning-based approach to automated quality control of multipleximmunofluorescence images](https://jitc.bmj.com/content/11/Suppl_1/A1424)
 
 2024 SITC poster (abstract 1283)
 
@@ -50,6 +56,8 @@ Dataset generation [code](https://github.com/Blupblupblup/Doppler-Signatures-Gen
 2020 IEEE Radar Conference (RadarConf20)
 
 ## Teaching
+
+Teaching assistant for the embedded systems (undergraduate) course of [IUT de Cachan](https://www.iut-cachan.universite-paris-saclay.fr/) - 2nd semester of 2024-2025.
 
 Teaching assistant for the [data science course](https://github.com/afermanian/sdd_2022) of Mines Paris engineering program - 2nd semester of 2021-2022.
 
