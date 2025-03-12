@@ -70,7 +70,3 @@ I [participated](https://github.com/Blupblupblup/challenge-iclr-2021/tree/main/B
 I talked about anomaly detection to IASD master program students as part of the [deep learning for image analysis course](http://cours.cmm.mines-paristech.fr/wiki/doku.php/deep/start) during the winter 2020 edition.
 
 I contributed to the review of a paper for the [RADAR 2019](https://www.radar2019.org/) conference.
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
