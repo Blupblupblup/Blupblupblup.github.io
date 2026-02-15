@@ -13,9 +13,15 @@ Before that I was a PhD student in machine learning at [Mines Paris](https://en.
 
 My current work applies machine learning to images, signals, and time series associated with electromagnetic sensors.
 
-I'm interested in anomaly detection, also called out-of-distribution detection or one-class classification, and representation learning for signal, time series and image processing.
+I'm interested in anomaly detection, also called out-of-distribution detection or one-class classification, and representation learning for signal, time series and image processing. I'm also interested in classical statistical signal processing.
 
 ## Publications & abstracts
+
+[Detecting radar targets swarms in range profiles with a partially complex-valued neural network](https://arxiv.org/abs/2602.09597)
+
+Preprint under review
+
+---
 
 [AI-driven Quality Control for Immunohistochemistry: Automated detection and exclusion of artifacts for downstream analysis in digitized pathology slides](https://www.aignostics.com/press/publications)
 
@@ -57,6 +63,8 @@ Dataset generation [code](https://github.com/Blupblupblup/Doppler-Signatures-Gen
 
 ## Teaching
 
+Lecturer for the IA716 : Computer vision (graduate) course of [Télécom Paris](https://synapses.telecom-paris.fr/catalogue/2025-2026/ue/15283/IA716-computer-vision) - 1st semester of 2025-2026.
+
 Teaching assistant for the embedded systems (undergraduate) course of [IUT de Cachan](https://www.iut-cachan.universite-paris-saclay.fr/) - 2nd semester of 2024-2025.
 
 Teaching assistant for the [data science course](https://github.com/afermanian/sdd_2022) of Mines Paris engineering program - 2nd semester of 2021-2022.
@@ -66,6 +74,8 @@ Teaching assistant for the [deep learning for image analysis course](http://cour
 Teaching assistant for the [probability course](https://github.com/boisgera/CDIS) of Mines Paris engineering program - 1st semester of 2020-2021.
 
 ## Misc
+
+I contributed to the review of a grant application for the [BPI France "AI pioneers"](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-des-pionniers-de-lintelligence-artificielle) call for projects.
 
 I talked about anomaly detection at a Franco-German University [workshop on mathematical image processing](https://www.itwm.fraunhofer.de/en/fairs_events/2022/2022_05_23_german-french-workshop.html) in May 2022 in Kaiserslautern.
 
