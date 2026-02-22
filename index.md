@@ -75,7 +75,7 @@ Teaching assistant for the [probability course](https://github.com/boisgera/CDIS
 
 ## Misc
 
-I contributed to the review of a grant application for the [BPI France "AI pioneers"](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-des-pionniers-de-lintelligence-artificielle) call for projects.
+I contributed to the review of a grant application for the [BPI France "AI pioneers"](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-des-pionniers-de-lintelligence-artificielle) (2025-2026) call for projects.
 
 I talked about anomaly detection at a Franco-German University [workshop on mathematical image processing](https://www.itwm.fraunhofer.de/en/fairs_events/2022/2022_05_23_german-french-workshop.html) in May 2022 in Kaiserslautern.
 
